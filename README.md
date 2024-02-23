@@ -1,6 +1,6 @@
 # TicTacToe
 
-This is a TicTacToe game with a GUI.
+This is a TicTacToe game with a GUI, based on SFML.
 
 # Features
 - Play against friends
