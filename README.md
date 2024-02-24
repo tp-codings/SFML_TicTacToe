@@ -6,7 +6,7 @@ This is a TicTacToe game with a GUI, based on SFML.
 
 | Personal Rating | Year of Development | Languages | Tools | Type of Application |
 | --- | --- | --- | --- | --- |
-| ⭐️⭐️⭐️ (2/5) | 2022 | C++ | SFML | Game |
+| ⭐️⭐ (2/5) | 2022 | C++ | SFML | Game |
 
 # Features
 - Play against friends
